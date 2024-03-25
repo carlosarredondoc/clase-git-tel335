@@ -1,0 +1,2 @@
+Complexity: Very Easy
+Bravo(math.pow(8,2))_tangoOscar_HotelEchoXray_TangoOscar_Br4v0(math.sqrt(8464))
