@@ -95,5 +95,5 @@ git push origin desarrollo
 git push -u origin desarrollo
 ```
 
-### Recordar  Realizar Pull Request desde su repositorio en su cuenta github a mi repositorio (en el caso de los controles, al hacia el repositorio del profesor Francisco)
+### Recordar  Realizar Pull Request desde su repositorio en su cuenta github a mi repositorio rama main (en el caso de los controles es hacia el repositorio del profesor Francisco la rama la dira el)
 
